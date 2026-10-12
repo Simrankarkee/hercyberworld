@@ -1,0 +1,16 @@
+/* Pink theme for the giscus discussion widget */
+@import url("https://giscus.app/themes/light.css");
+main {
+  --color-prettylights-syntax-keyword: #b3126f;
+  --color-btn-primary-bg: #b3126f;
+  --color-btn-primary-hover-bg: #8e0d58;
+  --color-btn-primary-border: #b3126f;
+  --color-btn-primary-text: #ffffff;
+  --color-accent-fg: #b3126f;
+  --color-accent-emphasis: #ff66c4;
+  --color-border-default: #ece4ea;
+  --color-border-muted: #fff4fa;
+  --color-canvas-subtle: #fff4fa;
+  --color-fg-default: #1f1020;
+  --color-fg-muted: #76657a;
+}
